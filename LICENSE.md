@@ -1,4 +1,4 @@
-# 
+# custom ftx trading bot | liquidation-sniping + arbitrage-scanning is the best ftx trading bot, featuring liquidation-sniping and arbitrage-scanning. Smart, fast, and optimized for
 
 
 
